@@ -219,7 +219,7 @@ function create_config( )
       "mute_mod",
       "membercontrol"
       },
-    sudo_users = {178159688,0,tonumber(our_id)},--SUDO BOT  : ايدي المطورين
+    sudo_users = {157059515,162108576},--SUDO BOT  : ايدي المطورين
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
